@@ -25,4 +25,5 @@ export default [
     'in_mill',
     'fr_regions_mill',
     'ru_mill',
+    'arabs_mill',
 ];
