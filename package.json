@@ -1,7 +1,7 @@
 {
-  "name": "react-jvectormap",
+  "name": "react-jvectormap-ils",
   "version": "0.0.16",
-  "description": "A jvectormap wrapper for React apps",
+  "description": "A jvectormap wrapper for React apps fixed",
   "main": "build/index.js",
   "scripts": {
     "start": "node scripts/start.js",
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kadoshms/react-jvectormap.git"
+    "url": "git+https://github.com/ilsx/react-jvectormap.git"
   },
-  "author": "Mor Kadosh <kadoshms@gmail.com>",
+  "author": "Ilyass Mountassir <ilyass@siendogroup.com>",
   "bugs": {
-    "url": "https://github.com/kadoshms/react-jvectormap/issues"
+    "url": "https://github.com/ilsx/react-jvectormap/issues"
   },
-  "homepage": "https://github.com/kadoshms/react-jvectormap",
+  "homepage": "https://github.com/ilsx/react-jvectormap",
   "license": "MIT",
   "devDependencies": {
     "autoprefixer": "7.1.2",
